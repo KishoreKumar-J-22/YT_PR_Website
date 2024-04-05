@@ -1,0 +1,7 @@
+streamlit
+streamlit_option_imenu
+pymongo
+googleapiclient.discovery
+psycopg2
+pandas
+PIL
