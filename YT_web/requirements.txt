@@ -1,7 +1,7 @@
 streamlit
 streamlit_option_menu
 pymongo
-googleapiclient.discovery
+googleapiclient
 psycopg2
 pandas
 PIL
